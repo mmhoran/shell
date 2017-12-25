@@ -1,0 +1,10 @@
+syntax: glob
+
+command_test
+shell
+*~
+\#*
+.\#*
+.DS_Store
+*.dSYM
+.*_history

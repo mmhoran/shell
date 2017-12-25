@@ -1,0 +1,10 @@
+data/joblist.c.i
+data/terminal.h.i
+data/command.h.i
+data/command.c.i
+data/command_test.c.i
+data/shell.c.i
+data/joblist.h.i
+data/.hgignore.i
+data/terminal.c.i
+data/Makefile.i
