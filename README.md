@@ -15,7 +15,7 @@ In this project, we practiced our debugging skills (using `gdb` and `valgrind`),
   3) To exit, type `exit` or ctrl+D
 
 ## Implemented commands
-  1) Built-in commands: `exit`, `help`, `cd`, `jobs`,
+  1) Built-in commands: `exit`, `help`, `cd`, and `jobs` (`fg` and `bg`)
   2) Executable commands: `ls` `emacs`, and other executable programs from the filesystem run in a separate process.
   3) `jobs`: reports all background jobs. `fg` and `bg` report jobs in the foreground and background, respectively.
 
