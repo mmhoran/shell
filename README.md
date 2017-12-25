@@ -1,6 +1,5 @@
 # shell
-CS 240 Final Project
-Introduction to Machine Organization with Laboratory
+CS 240 Final Project: Introduction to Machine Organization with Laboratory
 
 A simple `bash` shell. Interprets command language and manages processes.
   1) Uses process control features of the operating system (`fork`, `execvp`, `waitpid`, etc.)
