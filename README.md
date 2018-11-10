@@ -6,11 +6,11 @@ A simple `bash` shell. Interprets command language and manages processes.
   2) Manages basic concurrency of foreground and background processes
   3) Uses simple C data structures
 
-In this project, we practiced our debugging skills (using `gdb` and `valgrind`), read documentation to find relevant library functions, and inreased our proficiency with C and systems programming.
+In this project, we practiced our debugging skills (using `gdb` and `valgrind`), read documentation to find relevant library functions, and increased our proficiency with C and systems programming.
 
 ## To run the program
   1) Clone the repository
-  2) Run `./shell`
+  2) Open Terminal and run `./shell`
   3) To exit, type `exit` or ctrl+D
 
 ## Implemented commands
